@@ -8,10 +8,12 @@ h1 {
 }
 div {
 		background-color: #B0C4DE;
-		border :1px solid black;
+		margin:10px;
+		clear: right;
+		float:auto;
 }
 p {
-	width:90%;
+	width:95%;
 	margin-right: auto;
 	margin-left: auto;
 }
