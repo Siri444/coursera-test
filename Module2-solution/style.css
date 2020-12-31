@@ -20,9 +20,9 @@ p {
 	width :70px;
 	background-color: #FFA07A;
 	float :right;
-	border :1px solid black;
 	margin-top: 0px;
 	text-align: center;
+	border: 1px solid black;	
 }
 #p2{
 	clear :right;
@@ -76,8 +76,8 @@ p {
 @media (min-width: 768px) and (max-width: 991px){
 	.col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,
 	.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{
-		float:  left;
-		border: 1px solid black;
+		float:left;
+		border: 1px solid black
 	}
 	.col-md-1 {
 		width: 8.33%;
